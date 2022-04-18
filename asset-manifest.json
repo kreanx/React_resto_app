@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React_resto_app/static/css/main.a6b1eb90.chunk.css",
+    "main.js": "/React_resto_app/static/js/main.c09dc2ae.chunk.js",
+    "main.js.map": "/React_resto_app/static/js/main.c09dc2ae.chunk.js.map",
+    "runtime~main.js": "/React_resto_app/static/js/runtime~main.ebbe0bdf.js",
+    "runtime~main.js.map": "/React_resto_app/static/js/runtime~main.ebbe0bdf.js.map",
+    "static/js/2.2eb906e3.chunk.js": "/React_resto_app/static/js/2.2eb906e3.chunk.js",
+    "static/js/2.2eb906e3.chunk.js.map": "/React_resto_app/static/js/2.2eb906e3.chunk.js.map",
+    "index.html": "/React_resto_app/index.html",
+    "precache-manifest.2a899f31a1f1124628611def0d25a3ce.js": "/React_resto_app/precache-manifest.2a899f31a1f1124628611def0d25a3ce.js",
+    "service-worker.js": "/React_resto_app/service-worker.js",
+    "static/css/main.a6b1eb90.chunk.css.map": "/React_resto_app/static/css/main.a6b1eb90.chunk.css.map",
+    "static/media/empty-cart.ceb2faf0.png": "/React_resto_app/static/media/empty-cart.ceb2faf0.ceb2faf0.png",
+    "static/media/shopping-cart-solid.svg": "/React_resto_app/static/media/shopping-cart-solid.701d6d1d.svg"
+  }
+}
